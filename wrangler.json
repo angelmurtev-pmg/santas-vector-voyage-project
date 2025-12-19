@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "santas-vector-voyage-project",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "97705c2e-f2b8-43e5-9342-22bac4b99f0f",
+			"database_name": "santas_vector_voyage"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
